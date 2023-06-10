@@ -1,0 +1,67 @@
+/*custom css*/
+.btn-custom-invoice{
+    font-size: 14px;
+    margin-top: 45px;
+}
+
+.select-invoice select{
+     width:155px;
+    height: 26px;
+ }
+ .select-invoice textarea{
+     width:155px;
+ }
+ .invoice-col h6 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.invoice-col p {
+    font-size: 16px;
+    margin-bottom: 5px !important;
+}
+.invoice-info h4 {
+    font-size: 25px;
+    font-weight:  600;
+    margin-bottom: 15px;
+    color:#3276B1;
+}
+.table-invoice th {
+    font-weight: 700;
+    font-size: 16px;
+    border-color:#222;
+}
+
+.table-invoice td {
+    font-size: 16px;
+}
+.table-invoice th,.table-invoice td {
+    border-color: #5a5a5a !important;
+}
+table.table.table-bordered.table-invoice.border.border-dark th {
+    background: #f9f9f9;
+}
+.table-bordered>thead>tr>th, .table-bordered>thead>tr>td {
+    border-bottom-width: 1px;
+}
+.table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td {
+    border: 1px solid #847e7e;
+}
+.table>caption+thead>tr:first-child>td, .table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>td, .table>thead:first-child>tr:first-child>th {
+    border-top: 1px solid #847e7e;
+}
+.table-full thead{
+    background: #f9f9f9;
+}
+.table-full{
+    margin-top: 50px;
+}
+.select2-container .select2-selection--single {
+    height: 34px !important;
+    border-radius: 0px !important;
+
+}
+
+.datepicker {
+    border-radius: 0px !important;
+}
